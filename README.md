@@ -2,6 +2,30 @@
 
 A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
 
+### How to run this project Fast
+
+- Clone this project
+
+- Use Docker 
+
+```bash
+# Move to your workspace
+cd your-workspace
+
+# Clone this project into your workspace
+git clone https://github.com/gaspan/go-backend-clean-architecture.git
+
+# Move to the project root directory
+cd go-backend-clean-architecture
+
+#type 
+docker-compose up -d
+
+#then
+sudo docker-compose up --build
+
+```
+
 ![Go Backend Clean Architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture/blob/main/assets/go-backend-clean-architecture.png?raw=true)
 
 **You can use this project as a template to build your Backend project in the Go language on top of this project.**
