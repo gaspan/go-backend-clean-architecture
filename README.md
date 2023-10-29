@@ -213,7 +213,7 @@ Whenever you make changes in the interfaces of these use-cases, repositories, or
 
 ### API documentation of Go Backend Clean Architecture
 
-<a href="https://documenter.getpostman.com/view/391588/2s8Z75S9xy" target="_blank">
+<a href="https://documenter.getpostman.com/view/1336312/2s9YRGy9ap" target="_blank">
     <img alt="View API Doc Button" src="https://github.com/amitshekhariitbhu/go-backend-clean-architecture/blob/main/assets/button-view-api-docs.png?raw=true" width="200" height="60"/>
 </a>
 
